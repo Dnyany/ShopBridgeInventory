@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pd5XPQGsUbYj7nsQdlbCSLrCptne0jLdYFex6DK1FIGN9XYckBa8pCamG3NpCFc0hYNyxPEriK75T5DHydgj/g==",
+  "dgSpecHash": "aXSZr3VCncqHCLFuV/+BhIw3JMiXTof7cy0bSOdqoE0HEZBKfiyFMxh4CBhfQihrKSGcupa8pgh//9HXMb7r8Q==",
   "success": true,
   "projectFilePath": "D:\\GitHub\\ShopBridgeInventory\\ShopBridgeInventory\\ShopBridgeInventory.csproj",
   "expectedPackageFiles": [
@@ -22,11 +22,7 @@
     "C:\\Users\\cscdn\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.11.1\\system.identitymodel.tokens.jwt.6.11.1.nupkg.sha512",
     "C:\\Users\\cscdn\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\cscdn\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
-    "C:\\Users\\cscdn\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\cscdn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\cscdn\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\cscdn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\cscdn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+    "C:\\Users\\cscdn\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
